@@ -7,7 +7,7 @@ import os
 
 app = Flask(__name__)
 
-DATA_FILE = "vuelos.json"
+DATA_FILE = "vuelos.json."
 
 # Crea una función cargar_datos() que:
 def cargar_datos():
