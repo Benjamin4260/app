@@ -208,8 +208,8 @@ if __name__ == "__main__":
 
 # Actualizar vuelo:
 # curl -X PUT http://localhost:5000/api/vuelos/1 \
-#   -H "Content-Type: application/json" \
-#   -d '{"destino": "Córdoba", "vendidos": 25}'
+ # -H "Content-Type: application/json" \
+  # -d '{"destino": "Córdoba", "vendidos": 25}'
 
 # Eliminar vuelo:
 # curl -X DELETE http://localhost:5000/api/vuelos/1
