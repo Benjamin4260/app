@@ -1,15 +1,14 @@
 [
     {
-        "id": 2,
-        "destino": "Córdoba",
-        "capacidad": 120,
-        "vendidos": 20
+        "id": 1,
+       "destino": "córdoba",
+        "capacidad": 150,
+        "vendidos": 25
     },
     {
-        "id": 3,
+        "id": 2,
         "destino": "buenos aires",
         "capacidad": 150,
         "vendidos": 0
     }
 ]
-
